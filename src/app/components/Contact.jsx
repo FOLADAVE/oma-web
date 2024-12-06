@@ -8,7 +8,7 @@ const ContactUs = () => {
         <h2 className="text-indigo-950 font-semibold uppercase tracking-wide">Contact Us</h2>
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-900">Get in Touch</h1>
       </div>
-      <div className="flex flex-col md:flex-row items-start gap-12 m-24">
+      <div className="flex flex-col md:flex-row items-start gap-12 sm:m-16 m-0">
         {/* Left Side - Contact Info */}
         <div className="md:w-1/2 space-y-6 text-gray-600">
           <h3 className="text-lg font-bold text-indigo-950 flex items-center">
