@@ -20,7 +20,7 @@ const HeroSection = () => {
         // Same substring at the start will only be typed out once, initially
         'The Diction Oracle website',
         1000, // wait 1s before replacing "Mice" with "Hamsters"
-        'The Diction Oracle website',
+        'OMA DICTION',
         1000,
         
       ]}
